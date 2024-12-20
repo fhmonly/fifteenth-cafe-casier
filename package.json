@@ -10,7 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "datatables.net-bs5": "^2.1.8",
+    "datatables.net-dt": "^2.1.8",
+    "datatables.net-vue3": "^3.0.2",
     "nuxt": "^3.14.1592",
+    "sweetalert2": "^11.15.2",
     "vue": "latest",
     "vue-router": "latest"
   }
